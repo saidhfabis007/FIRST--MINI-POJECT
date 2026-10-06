@@ -1,22 +1,22 @@
-Title of ML Project:  Food order delivery time  Prediction Model
-—-----------------------------------------------------------------------------------------------------------
+## Title of ML Project:  Food order delivery time  Prediction Model
+
 Name: SAIDH FABIS M
 
 Organization: Entri Elevate
 
 Date:06-10-202
 
-—--------------------------------------------------------------------------------------------------------
 
-1.	Overview of Problem Statement:
+
+#1.	Overview of Problem Statement:
 
 
 The Food Order Delivery Dataset contains information about food orders, delivery distance, traffic conditions, driver availability, vehicle type, and delivery duration. The objective of this project is to build a machine learning regression model to predict Delivery_Duration_Minutes. The model will analyze different factors affecting delivery time and provide accurate delivery-time predictions. This can help food delivery businesses improve delivery planning, operational efficiency, and customer satisfaction.
 
-2. Objective:
+#2. Objective:
 To develop a machine learning regression model that accurately predicts food delivery duration based on various order and delivery-related factors.
 
-3. Data Description:
+#3. Data Description:
 
    - Source: Kaggle , link: Food Order Delivery Dataset
    - Features: 
